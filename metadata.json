@@ -1,0 +1,6 @@
+{
+  "name": "CipherGuard - Password Security Checker & Enhancer",
+  "description": "Modern cybersecurity weak password analyzer, entropy calculator, breach leak verifier, and strong passphrase generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
